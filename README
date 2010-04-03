@@ -1,0 +1,7 @@
+Only works on firefox
+
+This needs greasemonkey plugin which you can get at https://addons.mozilla.org/en-US/firefox/addon/748
+
+This is a greasemonkey script which executes whenever you visit image search on Yahoo and Google.
+
+This script adds a YUI carousel at the bottom of the page that showcases all the images in the image search page. 
